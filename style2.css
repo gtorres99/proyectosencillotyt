@@ -1,0 +1,51 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 100px; /* Ajusta el ancho del logo a 150px */
+    height: 50px; /* Ajusta automáticamente la altura para mantener la proporción */
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.banner {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto; /* Centrar el banner horizontalmente */
+    width: 80%; /* Ajustar el ancho del banner */
+}
+
+.banner h2 {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.carousel {
+    width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.carousel img {
+    width: 100%;
+    display: inline-block;
+}
+
+.historia {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+}
